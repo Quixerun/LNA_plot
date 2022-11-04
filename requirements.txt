@@ -1,0 +1,8 @@
+h5py
+numpy
+matplotlib
+ipympl
+ipywidgets
+jupyterlab
+jupyterlab-python-file
+nodejs
