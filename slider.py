@@ -53,7 +53,7 @@ class DataSetManager:
 
             display(my_slider_1)
             display(my_slider_2)
-        
+        quit()
     def update(self):
         global c
         c = [self.VGS1, self.VGS2]
